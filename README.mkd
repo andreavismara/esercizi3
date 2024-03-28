@@ -71,8 +71,3 @@
 - Direttore: Direttore dell'Istituto
 - Insegnanti di Informatica: Insegnanti incaricati delle decisioni riguardanti software e configurazioni
 - Tecnici dell'Istituto: Tecnici addetti alle installazioni e configurazioni hardware e software
-
-| Installazione e Configurazione                  | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
-| - Preparazione delle immagini del sistema       | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
-| - Configurazione dei PC e inserimento nella rete| Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
-| Collaudo e Test                                 | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
