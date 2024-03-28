@@ -33,6 +33,8 @@
      - 4.1.2 Test dei programmi installati
 
 
+# Diagramma di Gantt
+
 | Attività                                        | Durata   | Inizio    | Fine      |
 |-------------------------------------------------|----------|-----------|-----------|
 | Pianificazione Iniziale                         | 14 giorni| 2024-03-01| 2024-03-14|
@@ -48,6 +50,8 @@
 | Collaudo e Test                                 | 7 giorni | 2024-04-19| 2024-04-25|
 
 
+# Ipotetica matrice di responsabilità RACI
+
 | Attività                                        | Responsabile       | Approvatore | Collaboratori            | Consultati |
 |-------------------------------------------------|--------------------|-------------|--------------------------|------------|
 | Pianificazione Iniziale                         | PM                 | Direttore   | Insegnanti di Informatica|            |
@@ -57,6 +61,17 @@
 | Acquisto e Approvvigionamento                   | PM                 | Direttore   | Tecnici dell'Istituto    |            |
 | - Gara di appalto                               | PM                 | Direttore   |                          | Tecnici dell'Istituto|
 | - Ordine dei PC                                 | PM                 | Direttore   |                          | Tecnici dell'Istituto|
+| Installazione e Configurazione                  | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
+| - Preparazione delle immagini del sistema       | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
+| - Configurazione dei PC e inserimento nella rete| Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
+| Collaudo e Test                                 | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
+
+**Legenda:**
+- PM: Project Manager
+- Direttore: Direttore dell'Istituto
+- Insegnanti di Informatica: Insegnanti incaricati delle decisioni riguardanti software e configurazioni
+- Tecnici dell'Istituto: Tecnici addetti alle installazioni e configurazioni hardware e software
+
 | Installazione e Configurazione                  | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
 | - Preparazione delle immagini del sistema       | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
 | - Configurazione dei PC e inserimento nella rete| Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
