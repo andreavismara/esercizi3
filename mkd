@@ -1,0 +1,63 @@
+# Work Breakdown Structure (WBS) del Progetto MySchoolLab:
+
+1. **Pianificazione Iniziale**
+   - 1.1 Valutazione delle dimensioni del laboratorio
+     - 1.1.1 Rilevamento delle dimensioni fisiche del laboratorio
+     - 1.1.2 Determinazione del numero di postazioni necessarie
+   - 1.2 Definizione dei requisiti hardware e software
+     - 1.2.1 Specifiche dei PC necessari
+     - 1.2.2 Selezione del sistema operativo e dei programmi da installare
+   - 1.3 Progettazione della rete scolastica
+     - 1.3.1 Pianificazione del piano di indirizzamento della rete
+     - 1.3.2 Configurazione delle impostazioni di rete
+
+2. **Acquisto e Approvvigionamento**
+   - 2.1 Gara di appalto
+     - 2.1.1 Preparazione e pubblicazione del bando di gara
+     - 2.1.2 Valutazione delle offerte e selezione del fornitore
+   - 2.2 Ordine dei PC
+     - 2.2.1 Negoziazione dei contratti e conclusione degli ordini
+     - 2.2.2 Gestione della logistica e consegna dei PC
+
+3. **Installazione e Configurazione**
+   - 3.1 Preparazione delle immagini del sistema
+     - 3.1.1 Installazione del sistema operativo e dei programmi su un PC di prova
+     - 3.1.2 Creazione dell'immagine del sistema da duplicare sui PC
+   - 3.2 Configurazione dei PC e inserimento nella rete
+     - 3.2.1 Configurazione dei PC con l'immagine preparata
+     - 3.2.2 Integrazione dei PC nella rete scolastica
+
+4. **Collaudo e Test**
+   - 4.1 Collaudo dei singoli PC
+     - 4.1.1 Avvio dei PC e verifica dell'installazione
+     - 4.1.2 Test dei programmi installati
+
+
+| Attività                                        | Durata   | Inizio    | Fine      |
+|-------------------------------------------------|----------|-----------|-----------|
+| Pianificazione Iniziale                         | 14 giorni| 2024-03-01| 2024-03-14|
+| - Valutazione delle dimensioni del laboratorio | 5 giorni | 2024-03-01| 2024-03-05|
+| - Definizione dei requisiti hardware e software| 4 giorni | 2024-03-06| 2024-03-09|
+| - Progettazione della rete scolastica          | 5 giorni | 2024-03-10| 2024-03-14|
+| Acquisto e Approvvigionamento                   | 21 giorni| 2024-03-15| 2024-04-04|
+| - Gara di appalto                               | 10 giorni| 2024-03-15| 2024-03-24|
+| - Ordine dei PC                                 | 11 giorni| 2024-03-25| 2024-04-04|
+| Installazione e Configurazione                  | 14 giorni| 2024-04-05| 2024-04-18|
+| - Preparazione delle immagini del sistema       | 7 giorni | 2024-04-05| 2024-04-11|
+| - Configurazione dei PC e inserimento nella rete| 7 giorni | 2024-04-12| 2024-04-18|
+| Collaudo e Test                                 | 7 giorni | 2024-04-19| 2024-04-25|
+
+
+| Attività                                        | Responsabile       | Approvatore | Collaboratori            | Consultati |
+|-------------------------------------------------|--------------------|-------------|--------------------------|------------|
+| Pianificazione Iniziale                         | PM                 | Direttore   | Insegnanti di Informatica|            |
+| - Valutazione delle dimensioni del laboratorio | PM                 | Direttore   | Tecnici dell'Istituto    |            |
+| - Definizione dei requisiti hardware e software| PM                 | Direttore   | Insegnanti di Informatica|            |
+| - Progettazione della rete scolastica          | Tecnici dell'Istituto| PM          | Insegnanti di Informatica| Direttore |
+| Acquisto e Approvvigionamento                   | PM                 | Direttore   | Tecnici dell'Istituto    |            |
+| - Gara di appalto                               | PM                 | Direttore   |                          | Tecnici dell'Istituto|
+| - Ordine dei PC                                 | PM                 | Direttore   |                          | Tecnici dell'Istituto|
+| Installazione e Configurazione                  | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
+| - Preparazione delle immagini del sistema       | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
+| - Configurazione dei PC e inserimento nella rete| Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
+| Collaudo e Test                                 | Tecnici dell'Istituto| PM          |                          | Insegnanti di Informatica, Direttore |
